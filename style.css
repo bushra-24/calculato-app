@@ -1,0 +1,64 @@
+body{
+    background-color: steelblue;
+}
+
+.text-muted{
+    font-style: italic;
+}
+
+.h1{
+    text-align: center;
+    text-decoration: tomato;
+    margin-top: 40px;
+}
+
+
+.main {
+    border: none;
+    width: 215px;
+    margin: 0 auto;
+    border-radius: 12px;
+    background-color: rgb(37, 4, 4);
+    margin-top: 100px;
+    
+}
+
+.dec{
+    width: 20%;
+    border-radius: 12px;
+    background-color:rgb(204, 199, 199) ;
+}
+
+.result{
+    width: 99%;
+    margin-top: 5px;
+    background-color:rgb(204, 199, 199) ;
+    color: rgb(66, 66, 66);
+    border-radius: 12px;
+}
+
+.clearBtn{
+    width: 100%;
+    margin-top: 10px;
+    background-color: rgb(206, 146, 206) ;
+    border-radius: 12px;
+}
+
+.btn{
+    width: 45px;
+    background-color: grey;
+    margin: 1px;
+    margin-left: 4px;
+    border-radius: 8px;
+    background-color: rgb(206, 146, 206);
+}
+
+.btn1{
+    width: 45px;
+    background-color: grey;
+    margin: 1px;
+    margin-left: 4px;
+    border-radius: 50%;
+    
+    background-color: rgb(253, 176, 176);  
+}
